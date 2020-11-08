@@ -8,3 +8,7 @@ This is the introductory assignment for learning how to utilize MATLAB and simpl
 
 **Exercise 2: Week 3**
 This week's programming assignment was to utilize the conceptual knowledge taught behind Logistics Regression and Regularization. The full solutions file was inputted into a pdf file into the github folder.
+
+**Exercise 3: Week 4**
+In this week's programming assignment, I was tasked with implementing the one-vs-all logistic regression and neural networks to recognize hand-written
+digits. The full solution file was inputted into a pdf file into the github folder. 
